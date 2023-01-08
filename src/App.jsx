@@ -3,7 +3,7 @@ import TaskForm from './components/TaskForm'
 
 function App() {
   return (
-    <main className='bg-zinc-900 h-screen'>
+    <main className='bg-zinc-900 h-screen overflow-y-auto'>
       <div className='container mx-auto p-10'>
       <TaskForm />
       <TaskList />
