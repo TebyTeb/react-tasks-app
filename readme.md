@@ -16,7 +16,7 @@ This app is built using the following:
 - NodeJS
 - Tailwind with PostCss
 
-## [You can try it here!](https://tebyteb.github.io/react-tasks-app/)
+### [You can try it here!](https://tebyteb.github.io/react-tasks-app/)
 
 # Installation
 If you want to check yourself the project,
